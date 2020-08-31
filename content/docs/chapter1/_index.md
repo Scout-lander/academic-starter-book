@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
-linktitle: Chapter 1
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+linktitle: Whisky
+summary: all whisky cocktails.
 weight: 1
 icon: book
 icon_pack: fas
@@ -12,9 +12,9 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-## Flexibility
+## Old Fastion
 
-This feature can be used for publishing content such as:
+yesyes
 
 * **Online courses**
 * **Project or software documentation**
